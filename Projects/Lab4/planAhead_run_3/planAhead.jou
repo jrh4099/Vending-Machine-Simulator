@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# PlanAhead v14.7 (64-bit)
+# Build 321239 by xbuild on Fri Sep 27 19:29:51 MDT 2013
+# Start of session at: Wed Mar 28 12:00:14 2018
+# Process ID: 6892
+# Log file: D:/Jonathan Hubbard/DSD2/Lab4/Projects/Lab4/planAhead_run_3/planAhead.log
+# Journal file: D:/Jonathan Hubbard/DSD2/Lab4/Projects/Lab4/planAhead_run_3/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source {D:/Jonathan Hubbard/DSD2/Lab4/Projects/Lab4/pa.fromNetlist.tcl}

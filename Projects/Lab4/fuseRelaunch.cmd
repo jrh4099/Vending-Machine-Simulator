@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/Jonathan Hubbard/DSD2/Lab4/Projects/Lab4/Usr_interaction_tb_isim_par.exe" -prj "D:/Jonathan Hubbard/DSD2/Lab4/Projects/Lab4/Usr_interaction_tb_par.prj" "work.Usr_interaction_tb" 

@@ -1,0 +1,7 @@
+vhdl work "../../Code/seven_segment_decoder.vhd"
+vhdl work "../../Code/coin_controller.vhd"
+vhdl work "../../Code/bin_bcd.vhd"
+vhdl work "../../Code/vending_machine_controller.vhd"
+vhdl work "../../Code/seven_seg_disp.vhd"
+vhdl work "../../Code/coin_rx.vhd"
+vhdl work "../../Code/Usr_interaction.vhd"

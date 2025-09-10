@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\Jonathan Hubbard\DSD2\Lab4\Projects\Lab4\Usr_interaction.ncd
+OUTFILE=D:\Jonathan Hubbard\DSD2\Lab4\Projects\Lab4\Usr_interaction.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=D:\Jonathan Hubbard\DSD2\Lab4\Projects\Lab4
+LICENSE=ISE
+USER_INFO=174230485_174670005_210648960_720

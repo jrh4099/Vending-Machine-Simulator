@@ -1,0 +1,4 @@
+work	"../../Code/bin_bcd.vhd"
+work	"../../Code/coin_controller.vhd"
+work	"../../Code/seven_segment_decoder.vhd"
+work	"../../Code/vending_machine_controller.vhd"

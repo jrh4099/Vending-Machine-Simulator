@@ -1,0 +1,30 @@
+Command line:
+   Usr_interaction_tb_isim_par.exe
+     -simmode  gui
+     -sdfmax  /uut/=netgen/par/Usr_interaction_timesim.sdf
+     -sdfroot  /uut
+     -simrunnum  1
+     -socket  58067
+
+Wed Mar 28 18:35:42 2018
+
+
+ Elaboration Time: 1.15441 sec
+
+ Current Memory Usage: 1348.59 Meg
+
+ Total Signals          : 7423
+ Total Nets             : 5000
+ Total Signal Drivers   : 4307
+ Total Blocks           : 1237
+ Total Primitive Blocks : 703
+ Total Processes        : 4289
+ Total Traceable Variables  : 9307
+ Total Scalar Nets and Variables : 57041
+
+ Total Simulation Time: 162.615 sec
+
+ Current Memory Usage: 719.413 Meg
+
+Wed Mar 28 18:41:59 2018
+
